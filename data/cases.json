@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1747548178177,
+    "title": "State vs John Doe",
+    "parties": [
+      "State",
+      "John Doe"
+    ],
+    "status": "Open"
+  },
+  {
+    "id": 1747548782723,
+    "title": "",
+    "parties": [
+      ""
+    ],
+    "status": "Closed"
+  },
+  {
+    "id": 1747548784736,
+    "title": "",
+    "parties": [
+      ""
+    ],
+    "status": "Open"
+  },
+  {
+    "id": 1747548812096,
+    "title": "uday",
+    "parties": [
+      "myselo"
+    ],
+    "status": "Open"
+  },
+  {
+    "id": 1747548955671,
+    "title": "Uday",
+    "parties": [
+      "State"
+    ],
+    "status": "Closed"
+  }
+]
